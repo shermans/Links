@@ -6,12 +6,11 @@
 
 {"urls":
 [ 
-{"name":"Ghproxy","url":"https://ghproxy.net/https://raw.githubusercontent.com/shermans/TV/main/api.json"}, 
-{"name":"ghfast","url":"https://ghfast.top/https://raw.githubusercontent.com/shermans/TV/main/api.json"},
-{"name":"wget","url":"https://wget.la/https://raw.githubusercontent.com/shermans/TV/main/api.json"},
-{"name":"GitHub","url":"https://raw.githubusercontent.com/shermans/TV/main/api.json"},
+{"name":"GG","url":"https://gist.githubusercontent.com/shermans/9803c1fbf7126e39cff1b40b539d5824/raw/TV"},
 {"name":"饭太硬","url":"https://qist.wyfc.qzz.io/fty.json"},  
-{"name":"肥猫","url":"http://肥猫.com"}, 
+{"name":"饭太硬","url":"http://fty.xxooo.cf/tv"}, 
+{"name":"饭太硬","url":"http://www.饭太硬.net/tv"},  
+{"name":"肥猫","url":"http://肥猫.net/"}, 
 {"name":"摸鱼儿","url":"http://我不是.摸鱼儿.top"}, 
 {"name":"巧记","url":"http://cdn.qiaoji8.com/tvbox.json"}, 
 {"name":"道长","url":"https://cdn.gitmirror.com/bb/xduo/libs/master/index.json"}, 
